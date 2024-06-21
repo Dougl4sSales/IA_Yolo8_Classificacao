@@ -23,7 +23,6 @@ Agricultura: Identificação de áreas com Araucárias para a colheita sustentá
 Pesquisa Científica: Coleta de dados para estudos ecológicos e de biodiversidade.
 Educação Ambiental: Ferramenta educativa para ensinar sobre a fauna e flora locais.
 
-O modelo do YOLO8 escolhido foi o yolov8n-cls(Model Classification)
 ## Requisitos
 Para seguir este tutorial, você precisará dos seguintes itens:
 - Python 3.7+
